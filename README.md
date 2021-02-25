@@ -1,2 +1,2 @@
-# css-clips
-CSS clips for adding to sites
+# code-clips
+Code clips (html and css) for adding to sites
